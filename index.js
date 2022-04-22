@@ -5,4 +5,4 @@ const newHeader = document.createElement('h1')
 newHeader.id = "victory"
 // newHeader.append('H1')
 // newHeader.setAttribute('id', 'victory')
-newHeader.innerHTML = "Your name is the champion"
+newHeader.innerHTML = "Habtamu is the champion"
